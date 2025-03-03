@@ -4,7 +4,7 @@ from slider import Slider
 from koch_snowflake import KochSnowflake
 
 # Configuración inicial
-WIDTH, HEIGHT = 1000, 800
+WIDTH, HEIGHT = 1000, 700
 FPS = 30
 BACKGROUND_COLOR = (30, 30, 30)
 MAX_DEPTH = 7
