@@ -26,5 +26,5 @@ python main.py
 ```
 
 ## Authors:
-- [Alejandro Andrade]()
-- [José Proaño]()
+- [Alejandro Andrade](https://github.com/MrBowis)
+- [José Proaño](https://github.com/JoseProano)
