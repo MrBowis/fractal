@@ -9,10 +9,20 @@ git clone https://github.com/MrBowis/fractal.git
 cd fractal
 ```
 
-### 2. Activate virtual environment:
+### 2. Create and Activate Virtual Environment:
+You can use the following command to create a virtual environment:
 ```bash
 python -m venv venv
+```
+Then you can activate the virtual environment using the following command:
+
+Linux/Mac:
+```bash
 source venv/bin/activate
+```
+Windows:
+```bash
+venv\Scripts\activate
 ```
 
 ### 3. Install requirements:
