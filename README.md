@@ -1,7 +1,7 @@
 # Fractal
-Just a fractal made with python, customizable colors with RGB and number of cuts.
+Just a fractal made with python, including customizable colors with RGB and number of cuts.
 
-You should run these commands before run main.py:
+You should run these commands before you run main.py:
 
 ### 1. Clone the repository:
 ```bash
