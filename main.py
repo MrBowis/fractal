@@ -19,9 +19,9 @@ font = pygame.font.SysFont('Arial', 14)
 sliders = [
     Slider(WIDTH//2 - 275, HEIGHT-200, 250, 10, 0, MAX_DEPTH, 0, "Nivel de Detalle"),
     Slider(WIDTH//2 + 25, HEIGHT-200, 250, 10, 1, 10, 1, "Grosor Linea"),
-    Slider(100, HEIGHT-150, 250, 10, 0, 255, 0, "Linea R Ini"),
-    Slider(100, HEIGHT-100, 250, 10, 0, 255, 0, "Linea G Ini"),
-    Slider(100, HEIGHT-50, 250, 10, 0, 255, 0, "Linea B Ini"),
+    Slider(100, HEIGHT-150, 250, 10, 0, 255, 0, "Linea R Inicio"),
+    Slider(100, HEIGHT-100, 250, 10, 0, 255, 0, "Linea G Inicio"),
+    Slider(100, HEIGHT-50, 250, 10, 0, 255, 0, "Linea B Inicio"),
     Slider(400, HEIGHT-150, 250, 10, 0, 255, 0, "Linea R Fin"),
     Slider(400, HEIGHT-100, 250, 10, 0, 255, 0, "Linea G Fin"),
     Slider(400, HEIGHT-50, 250, 10, 0, 255, 0, "Linea B Fin"),
